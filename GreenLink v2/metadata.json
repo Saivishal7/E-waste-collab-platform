@@ -1,0 +1,7 @@
+{
+  "name": "GreenLink - Government E-Waste Management",
+  "description": "A policy-ready, government-aligned platform for collaborative e-waste management connecting citizens, technicians, recyclers, and authorities. ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
